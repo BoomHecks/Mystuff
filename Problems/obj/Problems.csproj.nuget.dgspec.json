@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "J:\\cs 2020\\SDP\\MyStaff\\Problems\\Problems.csproj": {}
+    "J:\\CS 2020\\SDP\\MyStaff\\Problems\\Problems.csproj": {}
   },
   "projects": {
-    "J:\\cs 2020\\SDP\\MyStaff\\Problems\\Problems.csproj": {
+    "J:\\CS 2020\\SDP\\MyStaff\\Problems\\Problems.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "J:\\cs 2020\\SDP\\MyStaff\\Problems\\Problems.csproj",
+        "projectUniqueName": "J:\\CS 2020\\SDP\\MyStaff\\Problems\\Problems.csproj",
         "projectName": "Problems",
-        "projectPath": "J:\\cs 2020\\SDP\\MyStaff\\Problems\\Problems.csproj",
+        "projectPath": "J:\\CS 2020\\SDP\\MyStaff\\Problems\\Problems.csproj",
         "packagesPath": "C:\\Users\\g16m4204\\.nuget\\packages\\",
-        "outputPath": "J:\\cs 2020\\SDP\\MyStaff\\Problems\\obj\\",
+        "outputPath": "J:\\CS 2020\\SDP\\MyStaff\\Problems\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

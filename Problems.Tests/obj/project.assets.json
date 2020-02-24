@@ -4599,11 +4599,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "J:\\cs 2020\\SDP\\MyStaff\\Problems.Tests\\Problems.Tests.csproj",
+      "projectUniqueName": "J:\\CS 2020\\SDP\\MyStaff\\Problems.Tests\\Problems.Tests.csproj",
       "projectName": "Problems.Tests",
-      "projectPath": "J:\\cs 2020\\SDP\\MyStaff\\Problems.Tests\\Problems.Tests.csproj",
+      "projectPath": "J:\\CS 2020\\SDP\\MyStaff\\Problems.Tests\\Problems.Tests.csproj",
       "packagesPath": "C:\\Users\\g16m4204\\.nuget\\packages\\",
-      "outputPath": "J:\\cs 2020\\SDP\\MyStaff\\Problems.Tests\\obj\\",
+      "outputPath": "J:\\CS 2020\\SDP\\MyStaff\\Problems.Tests\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -4622,8 +4622,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "J:\\cs 2020\\SDP\\MyStaff\\Problems\\Problems.csproj": {
-              "projectPath": "J:\\cs 2020\\SDP\\MyStaff\\Problems\\Problems.csproj"
+            "J:\\CS 2020\\SDP\\MyStaff\\Problems\\Problems.csproj": {
+              "projectPath": "J:\\CS 2020\\SDP\\MyStaff\\Problems\\Problems.csproj"
             }
           }
         }

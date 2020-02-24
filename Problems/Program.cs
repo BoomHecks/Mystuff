@@ -7,8 +7,11 @@ namespace Problems
        public string Prifix(string input)
         {
             int length = input.Length;
+            
             string[] stringsArray = input.Split();
+            
             int count = stringsArray.Length;
+            if (length == 0) count = 0;
             string output = Convert.ToString(length) + "," + Convert.ToString(count) +":"+ input;
             return output;
         }
