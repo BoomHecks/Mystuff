@@ -1,6 +1,6 @@
 language:csharp
 dotnet:2.2
-script: tests Problems.Tests
+script: test Problems.Tests
 matrix:
    include:
      -dist:xenial
