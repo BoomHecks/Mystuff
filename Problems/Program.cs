@@ -4,20 +4,24 @@ namespace Problems
 {
      public class Program
     {
+       public string Prifix(string input)
+        {
+            int length = input.Length;
+            string[] stringsArray = input.Split();
+            int count = stringsArray.Length;
+            string output = Convert.ToString(length) + "," + Convert.ToString(count) +":"+ input;
+            return output;
+        }
+
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
-            string input = Console.ReadLine();
-            Console.WriteLine(Prifix(input));
+            // string hi = Prifix("hello hoo lll");
+            //Console.WriteLine(hi);
+            Program p = new Program();
+
+            Console.WriteLine(p.Prifix("what  ... did you say ?? "));
         }
 
-        Prifix(string input)
-        {
-            int length= input.Length();
-            int[] strings = input.Split();
-            int count = strings.Length();
 
-            return length + "," + count + input;
-        }
     }
 }

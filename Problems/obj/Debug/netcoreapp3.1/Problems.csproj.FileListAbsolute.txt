@@ -1,0 +1,11 @@
+J:\cs 2020\SDP\MyStaff\Problems\obj\Debug\netcoreapp3.1\Problems.csprojAssemblyReference.cache
+J:\cs 2020\SDP\MyStaff\Problems\obj\Debug\netcoreapp3.1\Problems.AssemblyInfoInputs.cache
+J:\cs 2020\SDP\MyStaff\Problems\obj\Debug\netcoreapp3.1\Problems.AssemblyInfo.cs
+J:\cs 2020\SDP\MyStaff\Problems\bin\Debug\netcoreapp3.1\Problems.exe
+J:\cs 2020\SDP\MyStaff\Problems\bin\Debug\netcoreapp3.1\Problems.deps.json
+J:\cs 2020\SDP\MyStaff\Problems\bin\Debug\netcoreapp3.1\Problems.runtimeconfig.json
+J:\cs 2020\SDP\MyStaff\Problems\bin\Debug\netcoreapp3.1\Problems.runtimeconfig.dev.json
+J:\cs 2020\SDP\MyStaff\Problems\bin\Debug\netcoreapp3.1\Problems.dll
+J:\cs 2020\SDP\MyStaff\Problems\bin\Debug\netcoreapp3.1\Problems.pdb
+J:\cs 2020\SDP\MyStaff\Problems\obj\Debug\netcoreapp3.1\Problems.dll
+J:\cs 2020\SDP\MyStaff\Problems\obj\Debug\netcoreapp3.1\Problems.pdb
